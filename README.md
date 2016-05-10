@@ -1,4 +1,4 @@
-# <p align="center">merbot
+# <p align="center">AviraBot Api
 
 <p align="center">**A Telegram Group Administration Bot**
 
