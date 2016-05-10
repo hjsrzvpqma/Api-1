@@ -225,7 +225,7 @@ function create_config()
       'rss',
       'salat',
       'stats',
-      'sudo'
+      'sudo',
       'time',
       'urbandictionary',
       'webshot',
