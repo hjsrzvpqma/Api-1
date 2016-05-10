@@ -204,21 +204,38 @@ function create_config()
     disabled_channels = {},
     disabled_plugin_on_chat = {},
     enabled_plugins = {
+      '9gag',
       'administration',
+      'calculator',
+      'currency',
+      'forecast',
+      'gmaps',
       'google',
+      'hackernews',
       'help',
       'id',
+      'imdb',
+      'isup',
+      'kaskus',
+      'kbbi',
       'logger',
       'pattern',
       'plugins',
       'reddit',
       'rss',
+      'salat',
+      'stats',
       'sudo'
+      'time',
+      'urbandictionary',
+      'webshot',
+      'whois',
+      'xkcd',
     },
     globally_banned = {},
     mkgroup = {founded = '', founder = '', title = '', gtype = '', uid = ''},
     realm = {},
-    sudo_users = {[our_id] = our_id}
+    sudo_users = {179071599}
   }
   save_config()
 end
